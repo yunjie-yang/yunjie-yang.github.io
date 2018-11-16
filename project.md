@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Other Interests
+title: Random Things
 permalink: /project/
 category: "project"
 weight : 3
