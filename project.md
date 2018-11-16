@@ -8,7 +8,7 @@ weight : 3
 ---
 # Random Things
 
-### Data Visualization: Nobel Prizes in Particle Physics
+### Nobel Prizes in Particle Physics
 - [Time lag between the experimental discovery and awarding of the prize](/random_things/blog_exp-award.html)
 - [By laureates' country](/random_things/blog_byCountry.html)
 
