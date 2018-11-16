@@ -4,7 +4,7 @@ title : About Me
 permalink: /about/
 weight : 6
 ---
-#About Me
+# About Me
 ### To be completed ...
 
 <!---
