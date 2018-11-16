@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Yunjie Yang
+email: yunjiey@mit.edu
+description: "It does not make any difference how beautiful your guess is.
+It does not make any difference how smart you are, who made the guess, or what his name is
+– if it disagrees with experiment it is wrong. -- Richard P. Feynman"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yunjie-yang.github.io/" # the base hostname & protocol for your site
+github_username:  yunjie-yang
+
+# Build settings
+markdown: kramdown
