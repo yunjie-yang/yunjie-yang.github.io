@@ -4,8 +4,6 @@ layout: page
 permalink: /about/
 weight : 6
 ---
-# About Me
-
 ### To be completed ...
 
 <!---
