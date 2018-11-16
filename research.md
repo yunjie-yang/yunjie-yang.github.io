@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Research
+title: Yunjie Yang - Research
 permalink: /research/
 category: "research"
 weight : 2
