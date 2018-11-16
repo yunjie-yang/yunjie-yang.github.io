@@ -8,9 +8,8 @@
 # Site settings
 title: Yunjie Yang
 email: yunjiey@mit.edu
-description: "It does not make any difference how beautiful your guess is.
-It does not make any difference how smart you are, who made the guess, or what his name is
-– if it disagrees with experiment it is wrong. -- Richard P. Feynman"
+description: "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are.
+If it doesn't agree with experiment, it's wrong. -- Richard P. Feynman"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yunjie-yang.github.io/" # the base hostname & protocol for your site
 github_username:  yunjie-yang
