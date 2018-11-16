@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+#title: Research
 permalink: /research/
 category: "research"
 weight : 2
