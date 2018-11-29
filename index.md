@@ -15,3 +15,8 @@ I am a graduate student in [the Department of Physics](http://web.mit.edu/physic
 
 I work on advancing our knowledge of fundamental particles,
 in particular on the searches for those as-yet-unknown particles and forces, possibly components of the dark sector of matter. Currently, I am working on the GlueX experiment at Jefferson Lab, Virginia.
+
+<center>
+<b>Contact</b> 
+yunjiey at mit.edu <br>
+</center>
